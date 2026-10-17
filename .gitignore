@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local outputs of the verification scripts
+tests/_run/
+
+# Original working files that are not part of the publication (see docs/PUBLICATION_AUDIT.md)
+*.xlsx
+!data/Dicionário.xlsx
+drive/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

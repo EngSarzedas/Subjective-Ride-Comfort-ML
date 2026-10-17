@@ -1,0 +1,18 @@
+# Runtime of the original analysis: Google Colab, Python 3.12 (Colab session log in notebook cell 2).
+# Versions pinned below are those recorded in that log. Packages marked "not recorded" were
+# pre-installed in Colab and their versions were not printed; see docs/REPRODUCIBILITY.md for the
+# versions used in the verification run.
+pandas==2.2.2
+numpy==2.0.2
+scipy==1.16.3
+matplotlib==3.10.0
+plotly==5.24.1
+lightgbm==4.6.0
+catboost==1.2.8
+dataframe-image==0.2.7
+nest-asyncio==1.6.0
+scikit-learn      # not recorded
+xgboost           # not recorded
+seaborn           # not recorded
+umap-learn        # not recorded
+ipython           # notebook runtime (display, ! and % commands)

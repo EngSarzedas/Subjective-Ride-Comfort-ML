@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+type: software
+title: "Subjective-Ride-Comfort-ML: research code for predicting subjective ride comfort with machine learning"
+abstract: >-
+  Jupyter notebook used in the study "Machine Learning Techniques for Subjective Ride Comfort
+  Performance Prediction in Automotive Suspensions": exploratory analysis, Pearson correlation,
+  PCA and multi-output and single-output regression and classification models that relate
+  objective vehicle-dynamics metrics from simulator runs to subjective ride-comfort ratings.
+authors:
+  - family-names: Vieira
+    given-names: Leonardo Sarzedas do Carmo
+    orcid: "https://orcid.org/0009-0001-0776-5159"
+    affiliation: "Department of Mechanical Engineering, Federal University of Minas Gerais (UFMG)"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/EngSarzedas/Subjective-Ride-Comfort-ML"
+keywords:
+  - machine learning
+  - ride comfort
+  - vehicle dynamics
+  - automotive suspensions
+  - subjective evaluation
+  - reproducible research
+references:
+  - type: article
+    title: "Machine Learning Techniques for Subjective Ride Comfort Performance Prediction in Automotive Suspensions"
+    authors:
+      - family-names: Vieira
+        given-names: Leonardo Sarzedas do Carmo
+        orcid: "https://orcid.org/0009-0001-0776-5159"
+    status: in-preparation
